@@ -13,7 +13,7 @@ tags
 # General build files
 **/build/*
 !docs/build/*
-**/target/*
+#**/target/*
 
 lib/dokka.jar
 
@@ -71,3 +71,4 @@ crashlytics-build.properties
 
 # docs related
 docs/virtualenv/
+target/classes/sample.png
