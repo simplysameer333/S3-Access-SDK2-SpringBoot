@@ -1,0 +1,1 @@
+This is a POC to demostrate the use of S3 using SPring boot and AWS NEW SDK 2.X
